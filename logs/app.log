@@ -1,0 +1,10 @@
+2024-04-09T17:55:35.300Z [TRACE] - [userModel] This is a trace message 
+2024-04-09T17:55:35.301Z [ERROR] - [userModel] This is an error message [{"error":{}}]
+2024-04-09T17:56:52.960Z [INFO] -  This is an informational message  
+2024-04-09T17:56:52.967Z [TRACE] - [userModel] This is a trace message  
+2024-04-09T17:56:52.967Z [DEBUG] -  This is a debug message  
+2024-04-09T17:56:52.967Z [ERROR] - [userModel] This is an error message [{"error":{}}] 
+2024-04-09T17:56:58.805Z [INFO] -  This is an informational message  
+2024-04-09T17:56:58.811Z [DEBUG] -  This is a debug message  
+2024-04-09T17:56:58.812Z [ERROR] - [userModel] This is an error message [{"error":{}}] 
+2024-04-09T17:56:58.812Z [TRACE] - [userModel] This is a trace message  
